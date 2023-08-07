@@ -6,21 +6,6 @@ page.headerData {
             value (
                 {$plugin.tx_nscookieyes_nscookieyes.settings.cookieapiscript}
             )
-            if {
-                value = {$plugin.tx_nscookieyes_nscookieyes.settings.cookieapiasync}
-                equals = 1
-            }
-        }
-        20 = TEXT
-        20 {
-            value (
-                {$plugin.tx_nscookieyes_nscookieyes.settings.cookieapiscript}
-            )
-            if {
-                value = {$plugin.tx_nscookieyes_nscookieyes.settings.cookieapiasync}
-                equals = 1
-                negate = 1
-            }
         }
     }
 }
