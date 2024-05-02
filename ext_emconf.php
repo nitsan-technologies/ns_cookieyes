@@ -1,12 +1,14 @@
 <?php
 
 $EM_CONF['ns_cookieyes'] = [
-    'title' => '[NITSAN] cookieyes.com GDPR/EPR Compliant',
-    'description' => 'Quickly configure cookieyes.com to your TYPO3 site to helps make your use of cookies and online tracking GDPR and EPR compliant.',
+    'title' => 'cookieyes.com GDPR/EPR Compliant',
+    'description' => 'Implement GDPR/EPR Compliant at your TYPO3 website with our TYPO3 Cookiyes Extension. Ensuring Data & Cookie Protection on your website with ns_cookiyes extension.
+    
+    Documentation & Free Support: https://t3planet.com/typo3-cookieyes-extension',
     'category' => 'plugin',
-    'author' => 'Solanki Vivek',
+    'author' => 'T3: Vivek Solanki',
     'author_email' => 'sanjay@nitsan.in',
-    'author_company' => 'NITSAN Technologies Pvt Ltd',
+    'author_company' => 'T3Planet // NITSAN',
     'state' => 'stable',
     'version' => '1.0.0',
     'constraints' => [

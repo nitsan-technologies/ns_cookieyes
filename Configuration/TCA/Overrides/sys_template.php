@@ -7,5 +7,5 @@ $extKey = '';
 ExtensionManagementUtility::addStaticFile(
     'ns_cookieyes',
     'Configuration/TypoScript',
-    '[NITSAN] Cookieyes'
+    'Cookieyes'
 );
