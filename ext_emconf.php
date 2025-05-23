@@ -10,10 +10,10 @@ $EM_CONF['ns_cookieyes'] = [
     'author_email' => 'sanjay@nitsan.in',
     'author_company' => 'T3Planet // NITSAN',
     'state' => 'stable',
-    'version' => '1.0.1',
+    'version' => '2.0.0',
     'constraints' => [
         'depends' => [
-            'typo3' => '6.0.0-12.4.99',
+            'typo3' => '6.0.0-13.4.99',
         ],
         'conflicts' => [],
         'suggests' => [],
