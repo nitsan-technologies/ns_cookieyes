@@ -1,0 +1,15 @@
+categories:
+  cookiebot:
+    label: NsCookieyes Settings
+
+  cookieyes.general:
+    label: Cookieyes General Settings
+    parent: cookiebot
+
+
+settings:
+  cookieyes.cookieapikey:
+    label: Cookie API Key
+    category: cookieyes.general
+    type: string
+    default: ''
