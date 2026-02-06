@@ -1,10 +1,10 @@
 categories:
-  cookiebot:
+  cookieyes:
     label: NsCookieyes Settings
 
   cookieyes.general:
     label: Cookieyes General Settings
-    parent: cookiebot
+    parent: cookieyes
 
 
 settings:
