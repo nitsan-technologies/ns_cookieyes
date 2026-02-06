@@ -10,10 +10,10 @@ $EM_CONF['ns_cookieyes'] = [
     'author_email' => 'info@t3planet.de',
     'author_company' => 'T3Planet',
     'state' => 'stable',
-    'version' => '2.0.1',
+    'version' => '3.0.0',
     'constraints' => [
         'depends' => [
-            'typo3' => '6.0.0-13.4.99',
+            'typo3' => '6.0.0-14.9.99',
         ],
         'conflicts' => [],
         'suggests' => [],

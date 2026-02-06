@@ -1,0 +1,12 @@
+@import 'EXT:ns_cookieyes/Configuration/TypoScript/setup.typoscript'
+page.headerData {
+    1 = COA
+    1 {
+        10 = TEXT
+        10 {
+            value (
+                {$cookieyes.cookieapikey}
+            )
+        }
+    }
+}
